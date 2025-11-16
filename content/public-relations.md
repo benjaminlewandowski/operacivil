@@ -1,17 +1,16 @@
 # \_Public Relations
 
-## \#\_Beziehungen zur Öffentlichkeit – ohne Make-Up, mit Herz
+## #\_Beziehungen zur Öffentlichkeit – ohne Make-Up, mit Herz
 
 Systematisches, wirksames, kommunikatives Vorgehen durch verschiedene Beziehungsformen nennen wir gern „Public Reputations“ statt Public Relations. Ob Verein, Mitarbeiter, Künstler, Erzeuger oder Endverbraucher – Öffentlichkeitsarbeit kann geplant und professionell umgesetzt werden. Unsere Public Relations verfeinern nicht kosmetisch, sondern faktisch, mit Fokus auf Soziokultur und in planetaren Grenzen.
 
-## \#\_Beziehungen zur Umwelt – Verbindung sehen
+## #\_Beziehungen zur Umwelt – Verbindung sehen
 
 Setzen Sie erneuerbare Ressourcen und alternative Energien ein? Ist es Ihnen wichtig, dass Menschen mehr als nur ausreichend geschützt sind? Beachten Sie ökologische Konsequenzen und Ihre Region? Haben Sie schon darüber nachgedacht, dass Bäume unsere Nachbarn oder gar Beatmungsgeräte sind? Werden Sie sichtbar und zeigen Sie Engagement als Teil jüngster Entwicklungen eines im Wandel befindlichen Selbstverständnisses.
 
-## \#\_Public Relations und Werte – Respekt!
+## #\_Public Relations und Werte – Respekt!
 
 Opera Civil hat sich dem Code de Lisbone verpflichtet, einem Europäischen Kodex der Verhaltensgrundsätze in der Öffentlichkeitsarbeit, der Werte umfasst wie beispielsweise die Respektierung der UN-Menschenrechtserklärung, Aufrichtigkeit und moralische Integrität, Transparenz und wahrheitsgetreue Kommunikation. Unsere Arbeit folgt ferner den 1954 auf dem 2. Weltkongress der Internationalen Vereinigung von Journalisten fixierten Code de Bordeaux zu ethischen den Grundvoraussetzungen journalistischer Tätigkeit.
-
 
 # \_PR - Projektarbeiten
 
@@ -19,11 +18,11 @@ Neben klassischer Presse- und Öffentlichkeitsarbeit (ohne Insta, Facebook oder 
 
 Als Politikwissenschaftlerin biete ich auch Workshops zu „Wie funktioniert die Kommunalpolitik und wie die Teilhabeangebote?“ für Initiativen und Vereine.
 
-## \#\_Projekt ich bin dabei
+## #\_Projekt ich bin dabei
 
 Projektinfo (YouTube)
 
-## \#\_Transition Town Frankfurt / 2019
+## #\_Transition Town Frankfurt / 2019
 
 Mit dem Projekt „Heddernheim im Wandel“ wurden BürgerInnen sowie lokale AkteurInnen für nachbarschaftliches, klimaschonendes Handeln begeistert. Verschiedene Aspekte des Klimaschutzes wurden in Alltagsangebote integriert und trugen zur Steigerung die Lebensqualität im Stadtteil bei. Für den Trägerverein Transition Town Frankfurt e.V. war das ein wichtiger Schritt, um BürgerInnen stärker bei der Umsetzung von Maßnahmen für den großen Wandel in und mit der Nachbarschaft zu erreichen.
 
@@ -35,9 +34,7 @@ Nachbarschaftsprojekt Heddernheim mit Transition Town Frankfurt
 Artikel in der FNP:
 Repair-Café in Heddernheim: Zu schade für den Müll
 
-
 Abschlussevent
-
 
 \#\_PR & Organisation / 05 / 2017 - Event für Umweltforum RheinMain: Nachhaltigkeit sportlich umsetzen.
 
@@ -51,9 +48,7 @@ Entwicklungen und Angebote in der InnenStadt, und was jeder selbst tun kann.
 
 Präsentations-Folien als PDF downloaden
 
-
 Spaziergang rund um Klimaschutzmaßnahmen
-
 
 \#\_Event und PR für das Climate-KIC / 2016 - Innovation Summit
 

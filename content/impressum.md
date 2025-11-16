@@ -1,17 +1,12 @@
-# _Impressum | Datenschutz
+# \_Impressum | Datenschutz
 
 ## Impressum
 
-Die Website www.opera-civil.de ist ein Dienstleistungs- und Informationsangebot von Opera Civil, Feyza Morgül.
+Die Website [www.opera-civil.de](http://www.opera-civil.de) ist ein Dienstleistungs- und Informationsangebot von Opera Civil, Feyza Morgül.
 
 ## Angaben gemäß § 5 TMG
 
-<address>
-Feyza Morgül / Opera Civil<br>
-Gellertstraße 32<br>
-60389 Frankfurt am Main<br>
-Deutschland
-</address>
+Feyza Morgül / Opera Civil :br Gellertstraße 32 :br 60389 Frankfurt am Main :br Deutschland
 
 ## Kontakt
 
@@ -28,24 +23,24 @@ Jiji Lewandowski
 
 ## Bildrechte
 
-/#_Menü „Opera Civil”:
-In Livingston, Guatemala / © Ted Obermayer // www.piqs.de
-/#_Menü „Public Relations”:
-Auf einer Straße in Ägypten / © Schnubbli // www.piqs.de
-/#_Menü „Mind Crossing”:
-Generations, Frankfurt a. M. / © GerdZ // www.piqs.de
-/#_Menü „Journalismus”:
-Kartenspieler in Jojawar, Indien / © doozi // www.pixelio.de
-/#_Menü „Referenzen”:
-Klosterfrauen in Murcia, Spanien / © gnc1 // www.aboutpixel.de
-/#_Menü „Kontakt/Impressum”:
-Kein Titel / © Herbert Raschke // www.pixelio.de
-/#_Startseite at random:
-Leben am Klong, Thailand / © Klick // www.piqs.de
+/#\_Menü „Opera Civil”:
+In Livingston, Guatemala / © Ted Obermayer // [www.piqs.de](http://www.piqs.de)
+/#\_Menü „Public Relations”:
+Auf einer Straße in Ägypten / © Schnubbli // [www.piqs.de](http://www.piqs.de)
+/#\_Menü „Mind Crossing”:
+Generations, Frankfurt a. M. / © GerdZ // [www.piqs.de](http://www.piqs.de)
+/#\_Menü „Journalismus”:
+Kartenspieler in Jojawar, Indien / © doozi // [www.pixelio.de](http://www.pixelio.de)
+/#\_Menü „Referenzen”:
+Klosterfrauen in Murcia, Spanien / © gnc1 // [www.aboutpixel.de](http://www.aboutpixel.de)
+/#\_Menü „Kontakt/Impressum”:
+Kein Titel / © Herbert Raschke // [www.pixelio.de](http://www.pixelio.de)
+/#\_Startseite at random:
+Leben am Klong, Thailand / © Klick // [www.piqs.de](http://www.piqs.de)
 
 EU-Streitschlichtung
 
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr.
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <https://ec.europa.eu/consumers/odr>.
 Unsere E-Mail-Adresse finden Sie hier im Impressum.
 Verbraucherstreitbeilegung/Universalschlichtungsstelle
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
@@ -70,10 +65,8 @@ Datenschutz­erklärung
 
 Allgemeine Hinweise
 
-
 Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
 Datenerfassung auf dieser Website
-
 
 Wer ist verantwortlich für die Datenerfassung auf dieser Website?
 
@@ -90,12 +83,12 @@ Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website 
 Welche Rechte haben Sie bezüglich Ihrer Daten?
 
 Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.
-2. Hosting und Content Delivery Networks (CDN)
+2\. Hosting und Content Delivery Networks (CDN)
 
 Externes Hosting
 
 Diese Website wird bei einem externen Dienstleister gehostet (Hoster). Die personenbezogenen Daten, die auf dieser Website erfasst werden, werden auf den Servern des Hosters gespeichert. Hierbei kann es sich v. a. um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Websitezugriffe und sonstige Daten, die über eine Website generiert werden, handeln.Der Einsatz des Hosters erfolgt zum Zwecke der Vertragserfüllung gegenüber unseren potenziellen und bestehenden Kunden (Art. 6 Abs. 1 lit. b DSGVO) und im Interesse einer sicheren, schnellen und effizienten Bereitstellung unseres Online-Angebots durch einen professionellen Anbieter (Art. 6 Abs. 1 lit. f DSGVO).Unser Hoster wird Ihre Daten nur insoweit verarbeiten, wie dies zur Erfüllung seiner Leistungspflichten erforderlich ist und unsere Weisungen in Bezug auf diese Daten befolgen.
-3. Allgemeine Hinweise und Pflicht­informationen
+3\. Allgemeine Hinweise und Pflicht­informationen
 
 Datenschutz
 
@@ -109,7 +102,7 @@ Löwengasse 18
 Deutschland
 
 Telefon: +49 69 90 755 794
-E-Mail: info@opera-civil.de
+E-Mail: <info@opera-civil.de>
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 Widerruf Ihrer Einwilligung zur Datenverarbeitung
@@ -140,7 +133,7 @@ Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie jedoch zur 
 Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abwägung zwischen Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
 
 Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, dürfen diese Daten – von ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder eines Mitgliedstaats verarbeitet werden.
-4. Datenerfassung auf dieser Website
+4\. Datenerfassung auf dieser Website
 
 Server-Log-Dateien
 
@@ -157,4 +150,4 @@ Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenomm
 Anfrage per E-Mail, Telefon oder Telefax
 
 Wenn Sie uns per E-Mail, Telefon oder Telefax kontaktieren, wird Ihre Anfrage inklusive aller daraus hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens bei uns gespeichert und verarbeitet. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde.Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z. B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
-Quelle: https://www.e-recht24.de
+Quelle: <https://www.e-recht24.de>
