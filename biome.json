@@ -1,0 +1,50 @@
+{
+  "$schema": "https://biomejs.dev/schemas/2.2.2/schema.json",
+  "assist": {
+    "actions": {
+      "source": {
+        "organizeImports": "on",
+        "useSortedAttributes": "on",
+        "useSortedKeys": "on",
+        "useSortedProperties": "on"
+      }
+    },
+    "enabled": true
+  },
+  "files": {
+    "ignoreUnknown": false
+  },
+  "formatter": {
+    "enabled": true,
+    "indentStyle": "space",
+    "lineWidth": 100
+  },
+  "javascript": {
+    "formatter": {
+      "quoteStyle": "double"
+    }
+  },
+  "linter": {
+    "enabled": true,
+    "rules": {
+      "nursery": {
+        "useSortedClasses": "error"
+      },
+      "recommended": true,
+      "style": {
+        "useCollapsedIf": "error",
+        "useForOf": "error",
+        "useNumberNamespace": "error"
+      },
+      "suspicious": {
+        "noVar": "error",
+        "useAwait": "error"
+      }
+    }
+  },
+  "vcs": {
+    "clientKind": "git",
+    "enabled": false,
+    "useIgnoreFile": false
+  }
+}
