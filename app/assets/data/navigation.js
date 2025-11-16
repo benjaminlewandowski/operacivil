@@ -1,5 +1,4 @@
 export const mainNav = [
-  { name: "Home", order: 10, to: "/" },
   { name: "50 Grad Freitags Konsti", order: 20, to: "/50-grad-freitags-konsti" },
   { name: "Impressum", order: 80, to: "/impressum" },
   { name: "Mind Crossing", order: 50, to: "/mind-crossing" },
