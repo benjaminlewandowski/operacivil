@@ -1,12 +1,12 @@
 # \_Opera Civil
 
-## \#\_Wert schaffen mit Dialog und Einsatz
+## #\_Wert schaffen mit Dialog und Einsatz
 
 Opera Civil ist tätig für die Information der Öffentlichkeit, die strategische Darstellung sowie Stakeholderkommunikation. Wir begleiten Partner und Auftraggeber mit klassischen und kreativen Kommunikationsmaßnahmen. Schöne Presse- und Textarbeiten gehören ebenso zum Kerngeschäft wie anregende Gespräche, herausfordernde Moderationen und Mindcrossing.
 
 Projekte, die den Wandel aktiv gestalten, werden unterstützt und verstärkt. Aus Überzeugung gestalten wir, zusammen mit verschiedensten Akteuren in unserer Gesellschaft (Vereine, Institution, Wissenschaft, Politik und politisch Aktive) oft erfolgreich und immer aktiv Alternativen – für ein Zeitalter des Klimaschutzes, der Energiewende und der Menschenrechte.
 
-## \#\_Verstehen und Gestalten: Nachhaltigkeit als Ethik
+## #\_Verstehen und Gestalten: Nachhaltigkeit als Ethik
 
 Wer Transparenz und einen Wertewandel als Ziel oder Lösung versteht, auf Verständnis und Verantwortung baut, kann jetzt ein System mitgestalten, das ökologisch und sozial ausgeglichen ist. Wir unterstützen gern dabei, denn das ist nachhaltig.
 
@@ -18,7 +18,7 @@ Wer Transparenz und einen Wertewandel als Ziel oder Lösung versteht, auf Verst�
 
 Darum informieren wir uns aktuell über diese Entwicklungen und geben sie weiter an diejenigen, die danach fragen. Beobachten, verstehen, agieren und reagieren durch Kommunikation und im Dialog, um nachhaltige und bereichernde Kooperationen zu schaffen - das macht Opera Civil.
 
-## \#\_Weltanschauung: Think global – act (local) now!
+## #\_Weltanschauung: Think global – act (local) now!
 
 Was sind die Voraussetzungen für eine globale klimaangepasste, gerechte und (er)lebenswerte, kosmopolitische Weltgemeinschaft? Welchen Stellenwert hat die Installation erneuerbarer Energien? Wie können Nachbarn miteinander und mit brennenden Themen in Verantwortung gezogen werden? Die von uns Menschen geschaffenen globalen Probleme bilden Herausforderungen und Motivationspotential für ein neues Selbstverständnis. Opera Civil begegnet der Globalisierung offen und kosmopolitisch im Horizont einer die Menschen aller Kontinente übergreifenden Solidarität.
 
@@ -26,7 +26,7 @@ Es besteht großer und dringlicher Bedarf an Aufklärung und Diskussion über ga
 
 Diese Themen bewegen, sind live und gestaltbar. Wir setzen uns dafür ein, dass ihre Anstrengungen nicht isoliert ins Leere laufen, sondern im Kontext und Kräftefeld Gleichgesinnter zum Antriebsbarometer für notwendige Veränderungen werden.
 
-## \#\_Angebote und Pakete:
+## #\_Angebote und Pakete:
 
 z.B.
 
@@ -79,7 +79,7 @@ Wie lässt sich die Lebensqualität in Frankfurt verbessern? Wer bringt Bürger 
 Foto von der Flaneurin Frau Eckstein - Danke dafür
 
 Bezahlbare (mind.) +/- 50 qm in Bornheim, Innenstadt, Nordend oder Ostend gewünscht.
-[PDF downloaden](https://opera-civil.de/site/media/pdf/20-11-26_Suche_f_Räume_Version_Webseite_OC.pdf)
+[PDF downloaden](https://opera-civil.de/site/media/pdf/20-11-26_Suche_f_R%C3%A4ume_Version_Webseite_OC.pdf)
 
 Siehe auch Artikel in der FNP:
 [„Umwelt-Doppel sucht eine Bleibe“](https://www.fnp.de/frankfurt/umwelt-doppel-sucht-eine-bleibe-90261203.html)
