@@ -1,4 +1,4 @@
-# Publikationen
+# \_Publikationen
 
 Hier stehen Ihnen ausgewählte Artikel und Berichterstattungen aus unserer journalistischen Tätigkeit zur Verfügung. Verschaffen Sie sich einen Überblick über Interessen, Standpunkte und Kommentare von Opera Civil.
 

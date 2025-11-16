@@ -1,6 +1,6 @@
 # \_ZUVOR...
 
-## Informationsplattformen, Foren, Portale und Online-Magazine
+## \_\#Informationsplattformen, Foren, Portale und Online-Magazine
 
 - Agrion – Business Network for Energy, Cleantech, Sustainable Development
 - CSR News – The Corporate Social Responsibility Network
@@ -9,7 +9,7 @@
 - KarmaKonsum – Online-Medium, Eventveranstalter und Trendforscher der neogrünen Lifestyle-Szene (LOHAS)
 - Sabah - Europaausgabe der türkischen Tageszeitung
 
-## Unternehmen, Organisationen, Institutionen
+## \_\#Unternehmen, Organisationen, Institutionen
 
 - AiD – Architektur im Dialog
 - Akademisches Zentrum Rabanus Maurus / Bistum Limburg im Haus am Dom
@@ -31,7 +31,7 @@
 - Umweltforum Rhein-Main
 - Westhafenpier 1 GmbH
 
-## Bürgerengagement und zivilgesellschaftliche Projekte
+## \_\#Bürgerengagement und zivilgesellschaftliche Projekte
 
 - FreiwilligenZentrum Augsburg
 - Jugendhaus Istanbul, Stadtteil Sariyer

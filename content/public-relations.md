@@ -1,5 +1,3 @@
-# public relations
-
 # \_Public Relations
 
 ## \#\_Beziehungen zur Öffentlichkeit – ohne Make-Up, mit Herz

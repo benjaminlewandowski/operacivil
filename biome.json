@@ -1,5 +1,5 @@
 {
-  "$schema": "https://biomejs.dev/schemas/2.2.2/schema.json",
+  "$schema": "https://biomejs.dev/schemas/2.3.5/schema.json",
   "assist": {
     "actions": {
       "source": {
@@ -24,6 +24,19 @@
       "quoteStyle": "double"
     }
   },
+  "html": {
+    "experimentalFullSupportEnabled": true,
+    "formatter": {
+      "indentStyle": "space",
+      "lineWidth": 100
+    }
+  },
+  "json": {
+    "formatter": {
+      "indentStyle": "space",
+      "lineWidth": 100
+    }
+  },
   "linter": {
     "enabled": true,
     "rules": {
@@ -42,6 +55,7 @@
       }
     }
   },
+
   "vcs": {
     "clientKind": "git",
     "enabled": false,

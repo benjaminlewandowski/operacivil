@@ -13,6 +13,8 @@ if (!page.value) {
 <template>
 	<ContentRenderer
 		v-if="page"
+		:prose=true
 		:value="page"
+		class="prose p-4 md:col-span-2"
 	/>
 </template>
