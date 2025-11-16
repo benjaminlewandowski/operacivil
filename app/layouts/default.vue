@@ -23,7 +23,7 @@ useRouter().afterEach(() => {
 		<slot />
 	</div>
 
-	<picture class="absolute inset-0 ">
+	<picture class="fixed inset-0">
 		<img :src="`/images/bg${randomImage}.jpg`" :class="[loaded ? 'opacity-30' : 'opacity-0']"
 			class="transition-opacity duration-2000 w-full h-screen object-cover z-0" />
 	</picture>
