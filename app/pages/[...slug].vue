@@ -15,6 +15,6 @@ if (!page.value) {
 		v-if="page"
 		:prose=true
 		:value="page"
-		class="prose p-4 md:col-span-2"
+		class="prose p-4 md:col-span-2 max-w-4xl"
 	/>
 </template>
