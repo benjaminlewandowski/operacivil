@@ -1,3 +1,0 @@
-# mind crossing
-
-mind crossing
