@@ -1,0 +1,1 @@
+import{_ as s,d as r,N as t,i as n}from"./BETF39kc.js";const o={};function a(e,c){return n(),r("td",null,[t(e.$slots,"default")])}const d=Object.assign(s(o,[["render",a]]),{__name:"ProseTd"});export{d as default};

@@ -1,0 +1,1 @@
+import{_ as s,d as a,N as r,i as t}from"./BETF39kc.js";const n={};function o(e,c){return t(),a("thead",null,[r(e.$slots,"default")])}const d=Object.assign(s(n,[["render",o]]),{__name:"ProseThead"});export{d as default};
