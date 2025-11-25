@@ -10,10 +10,31 @@ export default defineNuxtConfig({
     typedPages: true,
     viewTransition: true,
   },
-  modules: ["@nuxt/content", "@nuxt/icon", "@nuxt/fonts", "@nuxt/image", "shadcn-nuxt"],
+  modules: [
+    "@nuxt/content",
+    "@nuxt/icon",
+    "@nuxt/fonts",
+    "@nuxt/image",
+    "shadcn-nuxt",
+    "nuxt-studio",
+  ],
+  nitro: {
+    prerender: {
+      crawlLinks: true,
+      routes: ["/"],
+    },
+  },
   shadcn: {
     componentDir: "./app/components/ui",
     prefix: "",
+  },
+  studio: {
+    repository: {
+      branch: "main",
+      owner: "benjaminlewandowski",
+      provider: "github",
+      repo: "operacivil",
+    },
   },
   vite: {
     plugins: [tailwindcss()],
