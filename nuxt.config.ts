@@ -18,12 +18,6 @@ export default defineNuxtConfig({
     "shadcn-nuxt",
     "nuxt-studio",
   ],
-  nitro: {
-    prerender: {
-      crawlLinks: true,
-      routes: ["/"],
-    },
-  },
   shadcn: {
     componentDir: "./app/components/ui",
     prefix: "",
