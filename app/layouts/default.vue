@@ -1,5 +1,5 @@
 <script setup>
-let randomImage = Math.floor(Math.random() * 7) + 1;
+let _randomImage = Math.floor(Math.random() * 7) + 1;
 
 const loaded = ref(false);
 
@@ -8,7 +8,7 @@ onMounted(() => {
 });
 
 useRouter().afterEach(() => {
-	randomImage = Math.floor(Math.random() * 7) + 1;
+	_randomImage = Math.floor(Math.random() * 7) + 1;
 	loaded.value = false;
 
 	setTimeout(() => {
@@ -24,7 +24,7 @@ useRouter().afterEach(() => {
 	</div>
 
 	<picture class="fixed inset-0">
-		<img :src="`/images/bg${randomImage}.jpg`" :class="[loaded ? 'opacity-10' : 'opacity-0']"
+		<img :src="`/images/bg${_randomImage}.jpg`" :class="[loaded ? 'opacity-10' : 'opacity-0']"
 			class="transition-opacity duration-2000 w-full h-screen object-cover z-0" />
 	</picture>
 </template>
