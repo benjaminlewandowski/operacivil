@@ -1,69 +1,85 @@
 {
-  "$schema": "https://biomejs.dev/schemas/2.3.7/schema.json",
-  "assist": {
-    "actions": {
-      "source": {
-        "organizeImports": "on",
-        "useSortedAttributes": "on",
-        "useSortedKeys": "on",
-        "useSortedProperties": "on"
-      }
-    },
-    "enabled": true
-  },
-  "css": {
-    "parser": {
-      "tailwindDirectives": true
-    }
-  },
-  "files": {
-    "ignoreUnknown": false,
-    "includes": ["**", "!!**/.nuxt", "!!**/.github", "!!**/.idea"]
-  },
-  "formatter": {
-    "enabled": true,
-    "indentStyle": "space",
-    "lineWidth": 100
-  },
-  "html": {
-    "experimentalFullSupportEnabled": true,
-    "formatter": {
-      "indentStyle": "space",
-      "lineWidth": 100
-    }
-  },
-  "javascript": {
-    "formatter": {
-      "quoteStyle": "double"
-    }
-  },
-  "json": {
-    "formatter": {
-      "indentStyle": "space",
-      "lineWidth": 100
-    }
-  },
-  "linter": {
-    "enabled": true,
-    "rules": {
-      "nursery": {
-        "useSortedClasses": "error"
-      },
-      "recommended": true,
-      "style": {
-        "useCollapsedIf": "error",
-        "useForOf": "error",
-        "useNumberNamespace": "error"
-      },
-      "suspicious": {
-        "noVar": "error",
-        "useAwait": "error"
-      }
-    }
-  },
-  "vcs": {
-    "clientKind": "git",
-    "enabled": false,
-    "useIgnoreFile": false
-  }
+	"$schema": "https://biomejs.dev/schemas/2.5.14/schema.json",
+	"assist": {
+		"actions": {
+			"source": {
+				"organizeImports": "on",
+				"useSortedAttributes": "on",
+				"useSortedKeys": "on",
+				"useSortedProperties": "on"
+			}
+		},
+		"enabled": true
+	},
+	"css": {
+		"parser": {
+			"tailwindDirectives": true
+		}
+	},
+	"files": {
+		"ignoreUnknown": false,
+		"includes": ["**", "!!**/.nuxt", "!!**/.github", "!!**/.idea"]
+	},
+	"formatter": {
+		"enabled": true,
+		"indentStyle": "space",
+		"lineWidth": 100
+	},
+	"html": {
+		"experimentalFullSupportEnabled": true,
+		"formatter": {
+			"indentStyle": "space",
+			"lineWidth": 120
+		}
+	},
+	"javascript": {
+		"formatter": {
+			"quoteStyle": "double"
+		}
+	},
+	"json": {
+		"formatter": {
+			"indentStyle": "space",
+			"lineWidth": 120
+		}
+	},
+	"linter": {
+		"enabled": true,
+		"rules": {
+			"nursery": {
+				"useSortedClasses": "error"
+			},
+			"preset": "recommended",
+			"style": {
+				"useCollapsedIf": "error",
+				"useForOf": "error",
+				"useNumberNamespace": "error",
+				"useVueMultiWordComponentNames": {
+					"level": "on",
+					"options": {
+						"ignores": [
+							"index",
+							"default",
+							"app",
+							"error",
+							"loading",
+							"notFound",
+							"nuxt-error",
+							"slug",
+							"[...slug]"
+						]
+					}
+				}
+			},
+			"suspicious": {
+				"noVar": "error",
+				"useAwait": "error"
+			}
+		}
+	},
+	"vcs": {
+		"clientKind": "git",
+		"enabled": false,
+		"useIgnoreFile": false
+	}
 }

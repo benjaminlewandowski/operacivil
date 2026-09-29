@@ -1,4 +1,8 @@
-# 50 Grad Freitags Konsti
+---
+title: _50° Freitags Konsti
+---
+
+# \_50° Freitags Konsti
 
 ## #\_Ende April 2024 startet „50° - Die Freitags-Konsti“
 
