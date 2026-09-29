@@ -15,7 +15,7 @@ const _sortedNavLinks = computed(() => {
 	<div class="h-full mb-0">
 		<nav class="px-4 pt-4 md:sticky md:top-0 md:max-h-screen md:overflow-auto">
 			<div class="bg-white/50 backdrop-blur-xs w-full mb-4 p-4">
-				<NuxtLink class="" to="/" >
+				<NuxtLink class="" to="/">
 					<img
 						alt="Opera Civil Logo"
 						class="w-full max-w-104"
@@ -32,8 +32,9 @@ const _sortedNavLinks = computed(() => {
 						class="py-2 px-3 bg-white border-slate-300 border hover:bg-slate-200 block transform-border duration-500"
 						:class="route.path === link.to ? 'border-l-16' : null"
 						:to="link.to"
-						>{{ link.name }}</NuxtLink
 					>
+						{{ link.name }}
+					</NuxtLink>
 				</li>
 			</ul>
 			<div
@@ -41,11 +42,14 @@ const _sortedNavLinks = computed(() => {
 				v-if="route.path !== '/'"
 			>
 				<blockquote class="border-slate-500">
-					{{ quotes[Math.floor(Math.random() * quotes.length)].quote
-					}}<br /><cite
-						>–
-						{{ quotes[Math.floor(Math.random() * quotes.length)].author }}</cite
-					>
+					<span>
+						{{ quotes[Math.floor(Math.random() * quotes.length)].quote }}
+					</span>
+					<br />
+					<cite>
+						–
+						{{ quotes[Math.floor(Math.random() * quotes.length)].author }}
+					</cite>
 				</blockquote>
 			</div>
 		</nav>
