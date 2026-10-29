@@ -4,6 +4,10 @@ export const quotes = [
     quote: "Alles Lebendige sucht nach einer besseren Welt.",
   },
   {
+    author: "René Descartes",
+    quote: "Nichts ist so gerecht verteilt wie der gesunde Menschenverstand. Niemand glaubt mehr davon zu brauchen, als er hat.",
+  },
+  {
     author: "Faithless",
     quote: "Misinformation is a message of mass destruction.",
   },
