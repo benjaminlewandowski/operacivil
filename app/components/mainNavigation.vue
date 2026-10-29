@@ -1,6 +1,6 @@
 <script setup>
+import { getRandomQuote } from "../assets/data/getRandomQuote";
 import { mainNav } from "../assets/data/navigation";
-import { quotes } from "../assets/data/quotes";
 
 const route = useRoute();
 
@@ -9,6 +9,15 @@ const _sortedNavLinks = computed(() => {
 		.sort((a, b) => a.order - b.order)
 		.filter((link) => !(link.to === "/" && route.path === "/"));
 });
+
+const randomQuote = ref(getRandomQuote());
+
+watch(
+	() => route.path,
+	() => {
+		randomQuote.value = getRandomQuote();
+	},
+);
 </script>
 
 <template>
@@ -43,12 +52,12 @@ const _sortedNavLinks = computed(() => {
 			>
 				<blockquote class="border-slate-500">
 					<span>
-						{{ quotes[Math.floor(Math.random() * quotes.length)].quote }}
+						{{ randomQuote.quote }}
 					</span>
 					<br />
 					<cite>
 						–
-						{{ quotes[Math.floor(Math.random() * quotes.length)].author }}
+						{{ randomQuote.author }}
 					</cite>
 				</blockquote>
 			</div>

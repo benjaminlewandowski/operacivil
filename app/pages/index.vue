@@ -1,5 +1,7 @@
 <script setup>
-import { quotes } from "../assets/data/quotes";
+import { getRandomQuote } from "../assets/data/getRandomQuote";
+
+const randomQuote = ref(getRandomQuote());
 </script>
 
 <template>
@@ -7,11 +9,11 @@ import { quotes } from "../assets/data/quotes";
 		<div class="prose p-4 bg-white/50 backdrop-blur-xs ml-4 md:ml-0">
 			<blockquote class="border-slate-500">
 				<span>
-					{{ quotes[Math.floor(Math.random() * quotes.length)].quote }}
+					{{ randomQuote.quote }}
 				</span>
 				<br />
 				<cite>
-					– {{ quotes[Math.floor(Math.random() * quotes.length)].author }}
+					– {{ randomQuote.author }}
 				</cite>
 			</blockquote>
 		</div>
