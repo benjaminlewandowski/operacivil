@@ -1,3 +1,7 @@
+---
+title: _Mind Crossing
+---
+
 # \_Mind Crossing
 
 ## #\_Horizontverschmelzung
@@ -21,7 +25,7 @@ Link (VHS)
 
 Neben theoretischem Wissen sind Teilnehmende eingeladen, sich praktisches Know-how mit Blick auf Frankfurt und Umgebung anzueignen
 
-## #\_Bürger\:innendialog: Wie wollen wir den Mainkai nutzen und beschatten?“
+## #\_Bürgerinnendialog Wie wollen wir den Mainkai nutzen und beschatten?“
 
 Artikel als Nachbericht im Journal
 

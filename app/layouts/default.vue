@@ -2,6 +2,7 @@
 let _randomImage = Math.floor(Math.random() * 7) + 1;
 
 const loaded = ref(false);
+const shutterKey = ref(0);
 
 onMounted(() => {
 	loaded.value = true;
@@ -10,6 +11,7 @@ onMounted(() => {
 useRouter().afterEach(() => {
 	_randomImage = Math.floor(Math.random() * 7) + 1;
 	loaded.value = false;
+	shutterKey.value += 1;
 
 	setTimeout(() => {
 		loaded.value = true;
@@ -34,7 +36,10 @@ useRouter().afterEach(() => {
 			:src="`/images/bg${_randomImage}.jpg`"
 		/>
 	</picture>
-	<div class="shutter absolute w-full h-screen object-cover z-50 pointer-events-none">
+	<div
+		:key="shutterKey"
+		class="shutter fixed w-full h-screen object-cover z-50 pointer-events-none"
+	>
 
 	</div>
 </template>
