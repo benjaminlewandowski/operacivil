@@ -52,6 +52,11 @@ const _sortedNavLinks = computed(() => {
 					</cite>
 				</blockquote>
 			</div>
+
+			<div class="prose p-4 bg-white/50 backdrop-blur-xs ml-4 md:ml-0 mt-2"
+				v-if="route.path !== '/'">
+					<p class="border-red-700 border-l-4 p-4 text-red-700 bg-red-50 font-bold">Permanently Closed.</p>
+			</div>
 		</nav>
 	</div>
 </template>

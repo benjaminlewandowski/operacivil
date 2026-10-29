@@ -34,6 +34,9 @@ useRouter().afterEach(() => {
 			:src="`/images/bg${_randomImage}.jpg`"
 		/>
 	</picture>
+	<div class="shutter absolute w-full h-screen object-cover z-50 pointer-events-none">
+
+	</div>
 </template>
 
 <style>

@@ -121,4 +121,28 @@
   body {
     @apply bg-background text-foreground;
   }
+
+	h1, h2, h3, h4, h5, h6 {
+		color: var(--color-red-700) !important;
+		& > a {
+			color: var(--color-red-700) !important;
+		}
+	}
+	.shutter {
+		background-image: url('/images/shutter.png');
+		top: -100vh;
+		left: 0;
+		right: 0;
+		animation: shutter-reveal 2s ease-out 1 forwards;
+		animation-delay: 1s;
+	}
+}
+
+@keyframes shutter-reveal {
+	from {
+		top: -100vh;
+	}
+	to {
+		top: 0;
+	}
 }

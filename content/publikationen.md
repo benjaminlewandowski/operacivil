@@ -1,3 +1,8 @@
+---
+title: _Publikationen
+description: Hier stehen Ihnen ausgewählte Artikel und Berichterstattungen aus unserer journalistischen Tätigkeit zur Verfügung. Verschaffen Sie sich einen Überblick über Interessen, Standpunkte und Kommentare von Opera Civil.
+---
+
 # \_Publikationen
 
 Hier stehen Ihnen ausgewählte Artikel und Berichterstattungen aus unserer journalistischen Tätigkeit zur Verfügung. Verschaffen Sie sich einen Überblick über Interessen, Standpunkte und Kommentare von Opera Civil.
