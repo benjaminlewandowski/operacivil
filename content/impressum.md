@@ -12,16 +12,7 @@ Die Website [www.opera-civil.de](http://www.opera-civil.de) ist ein Dienstleistu
 
 Feyza Morgül / Opera Civil :br Gellertstraße 32 :br 60389 Frankfurt am Main :br Deutschland
 
-## Kontakt
-
-E-Mail: E-Mail senden
-Mobil: +49 163 69 45 333
-
-## Konzeption, Design
-
-Zwölfton Design
-
-## Development / CMS
+## Konzeption, Design, Development / CMS
 
 Jiji Lewandowski
 
